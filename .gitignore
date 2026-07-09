@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+外置记忆/
+*.log
+元芽_状态.json
